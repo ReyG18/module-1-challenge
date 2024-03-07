@@ -1,14 +1,14 @@
 # module-1-challenge - Code Refactoring Project for Horiseon Website
 
-##Description
+## Description
 
 For the module 1 challenge, the objective was to refactor a website in order to 
 improve accessibility. Various changes have been made to the html file that will
 improve the efficiency of the browsers' assistive technologies.
 
-##Changes
+## Changes
 
-###Changes to HTML
+### Changes to HTML
 
 -   The original code was div soup. In order to improve accessibility, all div tags
     were changed into more suitable semantic html tags. As a result, changes were
@@ -19,7 +19,7 @@ improve the efficiency of the browsers' assistive technologies.
 -   Added alt text to all images (except the background image).
 -   Changed footer 'h2' to 'h4'.
 
-###Changes to CSS
+### Changes to CSS
 
 -   Fixed an error where calibri in the font families was not 'calibri'.
 -   Updated certain class selectors as a result of class names being changed in the html.
@@ -29,7 +29,7 @@ improve the efficiency of the browsers' assistive technologies.
 -   Consolidated the selectors for '.search-engine-optimization', 'online-reputation-management',
     and '.social-media-marketing' as well as their h3 and img selectors.
 
-##Challenges
+## Challenges
 
 I was unable to figure out how to add alt text to the '.background-image' class without breaking it.
 Either the image did not load and showed only the alt text, or both the alt text and image would display
