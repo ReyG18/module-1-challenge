@@ -1,4 +1,4 @@
-# module-1-challenge - Code Refactoring Project for Horiseon Website
+# Code Refactoring Challenge - Module 1
 
 ## Description
 
