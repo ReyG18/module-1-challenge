@@ -8,7 +8,7 @@ improve the efficiency of the browsers' assistive technologies.
 
 ## Changes
 
-### Changes to HTML
+**Changes to HTML**
 
 -   The original code was div soup. In order to improve accessibility, all div tags
     were changed into more suitable semantic html tags. As a result, changes were
@@ -19,7 +19,7 @@ improve the efficiency of the browsers' assistive technologies.
 -   Added alt text to all images (except the background image).
 -   Changed footer 'h2' to 'h4'.
 
-### Changes to CSS
+**Changes to CSS**
 
 -   Fixed an error where calibri in the font families was not 'calibri'.
 -   Updated certain class selectors as a result of class names being changed in the html.
